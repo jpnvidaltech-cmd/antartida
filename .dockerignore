@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.local
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+README.md
+extracted_web
+*.zip
+*.log
