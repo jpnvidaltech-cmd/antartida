@@ -3,7 +3,7 @@ services:
     build: .
     container_name: antartida_app
     ports:
-      - "3005:3000"
+      - "3005:3005"
     environment:
       - NODE_ENV=production
       - PORT=3005
